@@ -14,3 +14,13 @@ http://dblab.xmu.edu.cn/blog/2775-2/
 * vim /ertc/hosts
 * 
 
+
+
+7057 ResourceManager
+7347 Jps
+2729 NodeManager
+5722 JobHistoryServer
+5805 NameNode
+2381 DataNode
+
+有时候一些服务起不来，把master 改成内网地址即可，参考https://cloud.tencent.com/developer/article/1084157?from=15425
