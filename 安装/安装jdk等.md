@@ -25,3 +25,4 @@ http://dblab.xmu.edu.cn/blog/2775-2/
 
 有时候一些服务起不来，把master 改成内网地址即可，参考https://cloud.tencent.com/developer/article/1084157?from=15425
 网站无法访问的话，稍等一会
+实例的出入站规则加下
