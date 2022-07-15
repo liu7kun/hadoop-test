@@ -27,6 +27,7 @@ http://dblab.xmu.edu.cn/blog/2775-2/
 网站无法访问的话，稍等一会
 实例的出入站规则加下
 
+http://dblab.xmu.edu.cn/blog/2775-2/
 * hadoop jar /opt/apps/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.3.jar grep /user/input output 'dfs[a-z.]+'
 * hdfs dfs -mkdir -p /user/hadoop
 * [root@iZa2d5hncdeacm4texaofeZ hadoop]# hdfs dfs -mkdir input
