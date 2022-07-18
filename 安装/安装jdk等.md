@@ -32,3 +32,4 @@ http://dblab.xmu.edu.cn/blog/2775-2/
 * hdfs dfs -mkdir -p /user/hadoop
 * [root@iZa2d5hncdeacm4texaofeZ hadoop]# hdfs dfs -mkdir input
 * hdfs dfs -put /opt/apps/hadoop/etc/hadoop/*.xml /user/input
+*  hadoop jar ./share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.3.jar wordcount /input/input.txt /output
